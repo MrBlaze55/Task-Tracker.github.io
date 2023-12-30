@@ -1,0 +1,16 @@
+{
+    "name": "Task Tracker",
+    "short_name": "Task Tracker",
+    "description": "Track your Tasks to do",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#3498db",
+    "icons": [
+        {
+            "src": "C:/Users/raju eresseril/Mine-imator/Projects/New Project copy/coding/Task Tracker.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
